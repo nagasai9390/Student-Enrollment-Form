@@ -1,3 +1,12 @@
+![valid_roll_number](https://github.com/nagasai9390/Student-Enrollment-Form/assets/140963590/752270e4-057d-4da0-afdd-d164273fa42a)
+![Uploading update_student_details.png…]()
+![Uploading save_data_1.png…]()
+![Uploading invalid_roll_number.png…]()
+![Uploading invalid_details_2.png…]()
+![Uploading invalid_details_1.png…]()
+![Uploading Initial_home_page_look.png…]()
+![Uploading existing_student.png…]()
+![Uploading database.png…]()
 # Student-Enrollment-Form
 ## Description 
 This is a web based html form for student enrollment using JsonPowerDB as Database 
@@ -18,7 +27,9 @@ JsonPowerDB is used to perform CURD operation
 * JsonPowerDB ( As Database)
 
 # Screenshots:
-<img src="/images/save_data_1.png">
+<img src="/images/save_data_1.png">![Uploading alert_after_update.png…]()
+![Uploading alert_after_save_data.png…]()
+
 <img src="./images/database.png">
 
 # Illustrations:
